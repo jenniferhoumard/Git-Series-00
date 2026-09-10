@@ -27,7 +27,7 @@ This repository is used to learn the basics of Git and GitHub
 
 ## 4. Local Image
 
-![Formula Student Team UEM](formula_student_team_UEM.png)
+![Formula Student Team UEM] (images/formula_student_team_UEM.png)
 
 ## 5. What I Learned
 
