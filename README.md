@@ -27,6 +27,18 @@ This repository is used to learn the basics of Git and GitHub
 
 ## 4. Local Image
 
-![Formula Student Team UEM](formula_student _team_UEM.png)
+![Formula Student Team UEM](formula_student_team_UEM.png)
 
+## 5. What I Learned
 
+- This assignment helped me understand the relationship between a remote repository on GitHub and a local repository on my computer, including how a repository can be cloned so that I can work on it locally.
+
+- I learned how branches allow me to work on changes separately from the main version of a project, and I created and published a `readme` branch for my work.
+
+- I practiced the main Git workflow of cloning a repository, modifying files, reviewing changes, creating commits with descriptive messages, and pushing those commits to the remote repository.
+
+- I also improved my understanding of Markdown by adding headings, text, lists, an online image using a direct image URL, and a local image stored inside an `images` folder using a relative path.
+
+- Overall, I now understand more clearly how repositories, cloning, branches, commits, pushes, Markdown formatting, online image links, local file paths, and repository organization work together when managing a project with Git and GitHub.
+
+I spent approximately 35 minutes completing this assignment.
