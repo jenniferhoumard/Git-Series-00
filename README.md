@@ -42,3 +42,25 @@ This repository is used to learn the basics of Git and GitHub
 - Overall, I now understand more clearly how repositories, cloning, branches, commits, pushes, Markdown formatting, online image links, local file paths, and repository organization work together when managing a project with Git and GitHub.
 
 I spent approximately 35 minutes completing this assignment.
+
+## Terminology
+
+A. What is the exact meaning of push, branch, clone, diff and commit?
+
+- Push: sends the commits that are stored in my local repository to the remote repository on GitHub, so the online version is updated.
+
+- Branch: creates or represents a separate line of development in a repository. It allows me to make changes without directly changing another branch such as main.
+
+- Clone: creates a local copy of an existing remote repository on my computer. It copies the project files and Git history so I can work on the repository locally.
+
+- Diff: shows the differences between two versions of files, for example what lines I added, deleted or modified since the previous commit. In GitHub Desktop, I could see these changes before deciding what to commit.
+
+- Commit: saves a snapshot of selected changes in the local Git history. Each commit has a message explaining what was changed. A commit is local until it is pushed to GitHub.
+
+B. Rank the Git actions based on how often they were used for this series:
+
+1. Commit – used repeatedly after each change to the README.
+2. Push – used after the commits to send the changes to GitHub.
+3. Diff – viewed repeatedly in GitHub Desktop when checking what had changed before committing.
+4. Branch – mainly used when creating and working on the readme branch.
+5. Clone – normally only needed once at the beginning to copy the repository onto the computer.
