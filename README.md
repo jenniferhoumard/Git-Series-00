@@ -11,4 +11,4 @@ This repository is used to learn the basics of Git and GitHub
 
 ## 2. Image
 
-![Sam Laidlow winning the 2023 IRONMAN World Championship in Nice](https://www.tri247.com/wp-content/uploads/2023/09/sam-laidlow-nice-2023-finish-celebration.jpg)
+![Sam Laidlow winning the 2023 IRONMAN World Championship in Nice](https://www.lequipe.fr/_medias/img-photo-jpg/sam-laidlow-a-son-arrivee-b-zborowski-active-images-pour-ironman/1500000001832564/0:0,1597:1065-828-552-75/6cd96.jpg)
